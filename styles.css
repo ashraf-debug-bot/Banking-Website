@@ -12,7 +12,7 @@
 #about{
   text-align: center;
   padding:4% 7% 14%;
-  background-color: #F0E9D2;
+  background-color: white;
 }
 marquee{
   color:white;
@@ -136,7 +136,9 @@ text-align:center;
 }
 #contact{
   padding:5% 7% 15%;
-  background-color: #DFD8CA;
+  background-color: white;
+
+
 }
 .bottom{
   background-color: black;
